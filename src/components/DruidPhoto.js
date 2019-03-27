@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class DruidButton extends Component {
+export default class DruidPhoto extends Component {
     render() {
         return (
             <div>
-                DruidButton
+                DruidPhoto
             </div>
         )
     }

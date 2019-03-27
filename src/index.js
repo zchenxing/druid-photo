@@ -1,4 +1,4 @@
-import DruidButton from './components/DruidButton'
+import DruidPhoto from './components/DruidPhoto'
 module.exports = {
-    DruidButton
+    DruidPhoto
 }
