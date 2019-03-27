@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class DruidButtom extends Component {
+export default class DruidButton extends Component {
     render() {
         return (
             <div>
