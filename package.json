@@ -1,6 +1,6 @@
 {
   "name": "druid-photo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm-plugin",
   "main": "index.js",
   "scripts": {
